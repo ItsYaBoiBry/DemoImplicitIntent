@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Implicit Intent</string>
+    <string name="send_email_btn">Send Email</string>
+    <string name="dg_tv">DG</string>
+</resources>
